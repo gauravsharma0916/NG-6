@@ -1,0 +1,12 @@
+a:hover{
+ color:red; 
+ font-size: 15px;
+ /* border-bottom: 2px solid #00040a; */
+ text-decoration: none;
+}
+
+a{
+    color:white;
+    text-align: center;
+    
+}
