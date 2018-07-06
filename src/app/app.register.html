@@ -1,0 +1,53 @@
+
+
+
+
+<div class="container-fluid">
+    <div class="row justify-content-center" style="margin-top:40px">
+       <div class="col-8">
+           <div class="jumbotron"></div>
+               <h3>User registration</h3>
+            <div>
+                <!-- form start from here  -->
+                <form [formGroup]="registrationForm">
+                    
+                    <div class="form-group">
+                        <label for="userfirstname"><strong>First Name</strong></label>
+                        <input type="text" class="form-control" id="userfirstname" formControlName="Firstname" placeholder="Enter First Name">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="userlastname"><strong>Last Name</strong></label>
+                        <input type="text" class="form-control" id="userlastname" formControlName="Lastname" placeholder="Enter Last Name">
+                    </div>
+
+                    <div class="form-group">
+                            <label for="usermailid"><strong>Mail</strong></label>
+                            <input type="email" class="form-control" id="usermailid" formControlName="mailid" placeholder="Enter mail id">
+                    </div>
+
+                    <div class="form-group">
+                            <label for="usermobile"><strong>Mobile</strong></label>
+                            <input type="number" class="form-control" id="usermobile" formControlName="mobile" placeholder="Enter mobile">
+                    </div>
+
+                    <div class="form-group">
+                            <label for="userpassword"><strong>Password</strong></label>
+                            <input type="text" class="form-control" id="userpassword" formControlName="password" placeholder="Enter Password">
+                    </div>
+
+                    <div class="form-group">
+                            <label for="userpassword"><strong>Confirm Password</strong></label>
+                            <input type="text" class="form-control" id="userconfirmpassword" formControlName="confirmpassword" placeholder="Enter Password">
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+

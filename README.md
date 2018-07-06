@@ -1,27 +1,13 @@
-# Angular
+NG-6
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+angular 6 repo After installation of node server
 
-## Development server
+1- Open command prompt using cmd command. 
+2- Install node modules using npm install -g angular/cli command. 
+3- Now create your project name using ng new "project_name". 
+4-After complete 3rd step your application will ready with all required files and folders. Now use command npm start or npm serve 
+5-Open your system browser and type this url http://localhost:4200 and enter ... Thats it...If Stuck somewhere can call me over 9889440531 or mail at gsonu.sharma@gmail.com/gsonu.sharma@yahoo.co.in
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+for vs code extra fetures https://www.ngdevelop.tech/10-popular-vscode-extensions/
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+For angular upgraditon platform=>https://angular-update-guide.firebaseapp.com/
