@@ -22,9 +22,7 @@ import { UserService } from '../service/UserService';
     AboutusComponent,
     ContactusComponent,
     RegisterComponent
-    
-    
-  ],
+ ],
   imports: [
     BrowserModule,
     AppRoutingmodule,
