@@ -1,1 +1,2 @@
-1=>You have to make put json file either in assets folder or as  i make a seprate folder named data.Where i want to keep my all json files then i have to give path in angular.json file like i did into assets array.Otherwise it will give 404 every time .
+1=>You have to make put json file either in assets folder or as  i make a seprate folder named data.
+Where i want to keep my all json files then i have to give path in angular.json file like i did into assets array.Otherwise it will give 404 every time .
