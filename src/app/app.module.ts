@@ -31,6 +31,9 @@ import { UserService } from '../service/UserService';
     FormsModule        
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [
+     AppComponent
+     //RegisterComponent
+  ]
 })
 export class AppModule { }
